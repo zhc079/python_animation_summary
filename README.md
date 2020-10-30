@@ -1,2 +1,3 @@
 # python_animation_summary
-animation demo in python
+summary of animation demo in python
+tutorial of animation by python
